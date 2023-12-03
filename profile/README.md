@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+This is service for testing user-defined tests for complexity using large language models
 
-**Here are some ideas to get you started:**
+Our **features**:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 🔥 You can define your test and launch LLM check in one moment
+* 🤩 You can use different language models for one test
+* 😍 After checking, we visualize the results beautifully
